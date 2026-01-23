@@ -1,0 +1,12 @@
+:root {
+  --accent-pink: #ff96b6;
+}
+
+.navbar-brand {
+  color: var(--accent-pink);
+}
+
+main {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
